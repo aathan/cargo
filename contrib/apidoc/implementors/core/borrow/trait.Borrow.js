@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["cargo"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.63.0/core/borrow/trait.Borrow.html\" title=\"trait core::borrow::Borrow\">Borrow</a>&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/1.63.0/std/primitive.str.html\">str</a>&gt; for <a class=\"struct\" href=\"cargo/util/interning/struct.InternedString.html\" title=\"struct cargo::util::interning::InternedString\">InternedString</a>","synthetic":false,"types":["cargo::util::interning::InternedString"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

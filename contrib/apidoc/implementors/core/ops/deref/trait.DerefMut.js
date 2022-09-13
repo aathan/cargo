@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["cargo"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.63.0/core/ops/deref/trait.DerefMut.html\" title=\"trait core::ops::deref::DerefMut\">DerefMut</a> for <a class=\"struct\" href=\"cargo/ops/cargo_add/manifest/struct.LocalManifest.html\" title=\"struct cargo::ops::cargo_add::manifest::LocalManifest\">LocalManifest</a>","synthetic":false,"types":["cargo::ops::cargo_add::manifest::LocalManifest"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

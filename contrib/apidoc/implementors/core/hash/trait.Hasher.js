@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["cargo"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.63.0/core/hash/trait.Hasher.html\" title=\"trait core::hash::Hasher\">Hasher</a> for <a class=\"struct\" href=\"cargo/util/hasher/struct.StableHasher.html\" title=\"struct cargo::util::hasher::StableHasher\">StableHasher</a>","synthetic":false,"types":["cargo::util::hasher::StableHasher"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
